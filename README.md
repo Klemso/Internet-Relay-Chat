@@ -44,8 +44,8 @@ This project is an IRC (Internet Relay Chat) application built with a **Node.js 
 
 1. Clone the repository:
      ```sh
-     git clone git@github.com:EpitechMscProPromo2027/T-JSF-600-NCE_6.git
-     cd T-JSF-600-NCE_6
+     git clone git@github.com:Klemso/Internet-Relay-Chat.git
+     cd Internet-Relay-Chat
      ```
 
 2. Install dependencies for both backend and frontend:
