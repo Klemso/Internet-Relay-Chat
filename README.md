@@ -118,12 +118,6 @@ This project is an IRC (Internet Relay Chat) application built with a **Node.js 
 - `npm test`: Run frontend tests.
 - `npm run build`: Build the frontend for production.
 
-## 📚 Documentation
-For more detailed documentation, refer to the following files:
-- `📄 Fonctionnalités.txt`
-- `📄 Barème de notation du projet.txt`
-- `📄 Remaining features.txt`
-
 ---
 
 # Made by these guys
